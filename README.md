@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 # React Assignment: Simplified Frontend Application
 
+# Deployed link--  https://dancing-bunny-ed9846.netlify.app/
+
 ## Features
 
 - **Item List with Pagination**: Displays items with client-side pagination.
